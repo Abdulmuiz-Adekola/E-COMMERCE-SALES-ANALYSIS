@@ -8,3 +8,17 @@ Leveraging Power BI Advanced Analytics for Sales Performance and Market Trend An
 This analysis identifies the top-performing products, examines customer behavior, and evaluates product performance using Power BI.
 The insights help optimize sales strategies and improve business decisions.
 ![an analysyt ](https://github.com/user-attachments/assets/970465a9-a2dc-4b2f-96fb-7c73cbaf42b0)
+
+# PROBLEM STATEMENT 
+The  seeks to deepen its understanding of sales performance across various product subcategories by analyzing key metrics such as sales revenue, profit, and quantity sold. The primary challenge is identifying year-over-year trends and evaluating each subcategory's contribution to overall business performance. A lack of clear insights into these trends hinders effective decision-making in inventory management, pricing strategies, and product investment.
+
+By thoroughly analyzing these metrics, The store  can uncover growth opportunities, address underperforming areas, and gain the insights needed to optimize inventory, refine pricing strategies, and guide future investments in key product categories.
+
+# OBJECTIVES OF THE PROJECT
+This project aims to:
+
+- Analyze Sales Performance – Evaluate sales revenue, profit, and quantity sold across product subcategories.
+- Identify Top-Performing Products – Determine which products drive the most revenue and profitability.
+- Understand Customer Behavior – Explore purchasing patterns and trends to enhance marketing strategies.
+- Track Year-over-Year Trends – Assess sales growth and seasonal variations to improve forecasting.
+- Optimize Inventory Management – Provide insights for better stock control and demand planning.
