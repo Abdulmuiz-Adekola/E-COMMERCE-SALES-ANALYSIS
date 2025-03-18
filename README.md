@@ -24,6 +24,23 @@ This project aims to:
 - Optimize Inventory Management – Provide insights for better stock control and demand planning.
 
   # SKILLS EMPLOYED
-  - critical thinking
-  - Businees understanding and preparation
-  - Design dashboard
+ - critical thinking
+ - Businees understanding and preparation
+ - Design dashboard
+
+# MODELLING 
+- Data Transformation with Power Query – Cleaned and prepared raw data by handling missing values, formatting, and creating calculated columns.
+- DAX Measures & Calculated Columns – Used Data Analysis Expressions (DAX) to create custom metrics such as total sales, profit margins, and year-over-year growth.
+- Segmentation & Clustering – Categorized products and customers based on sales patterns and purchasing behavior for targeted insights.
+
+
+# VISUALIZATION 
+- KPIs
+- Doughnut chart 
+- line graph
+- Tree map
+
+
+
+# DATA ANALYSIS 
+## KPIs
