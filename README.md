@@ -23,7 +23,7 @@ This project aims to:
 - Track Year-over-Year Trends – Assess sales growth and seasonal variations to improve forecasting.
 - Optimize Inventory Management – Provide insights for better stock control and demand planning.
 
-  # SKILLS EMPLOYED
+# SKILLS EMPLOYED
  - critical thinking
  - Businees understanding and preparation
  - Design dashboard
